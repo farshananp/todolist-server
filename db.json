@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy groceries",
+      "status": "Completed"
+    },
+    {
+      "title": "make ui design",
+      "status": "Pending",
+      "id": 3
+    },
+    {
+      "title": "Pay electricity bill",
+      "status": "Completed",
+      "id": 4
+    },
+    {
+      "title": "Buy dress",
+      "status": "Pending",
+      "id": 5
+    }
+  ]
+}
